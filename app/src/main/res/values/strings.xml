@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Easy Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="saved">Note Saved</string>
+    <string name="not_saved">Couldn\'t save</string>
+    <string name="no_note">No Note</string>
+    <string name="updated">Note Updated</string>
+    <string name="back">Go to home screen</string>
+    <string name="exit">Exit</string>
+    <string name="search">search</string>
+    <string name="reference">Healthcare Reference</string>
+    <string name="note">Take Note</string>
+    <string name="welcome">WELCOME TO JUST IN
+                    TIME LEARNING APP</string>
+    <string name="document">Go to document</string>
+
+
+
+</resources>
